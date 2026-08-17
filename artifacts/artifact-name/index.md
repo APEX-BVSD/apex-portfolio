@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Artifact Name]
+title: Artifact Name
 ---
 
 # [Artifact Name]
