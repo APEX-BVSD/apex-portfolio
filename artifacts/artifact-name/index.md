@@ -3,7 +3,7 @@ layout: default
 title: Artifact Name
 ---
 
-# [Artifact Name]
+# Artifact Name
 
 <p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
 
