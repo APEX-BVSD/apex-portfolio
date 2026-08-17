@@ -14,7 +14,7 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 
 - **Home:** Introduction and featured work
 - **Resume:** Education, skills, experience, and certifications
-- **Artifacts:** Selected projects and evidence of learning
+- **Artifacts:** Selected evidence of my technical and professional learning
 
 ## Featured Skills
 
