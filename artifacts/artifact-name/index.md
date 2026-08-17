@@ -60,4 +60,4 @@ Examples:
 
 ---
 
-[Return to All Artifacts](../../artifacts.html)
+[Return to All Artifacts]({{ '/artifacts.html' | relative_url }})
